@@ -12,17 +12,8 @@ I'm currently pursuing my Bachelor's Degree in Information Technology.
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
-![java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white)
 ![Html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/css3-css-white?style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-## My Github Stats 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=shemkumar&theme=gruvbox&show_icons=true)
-
-<br>
-
-----
 
 <br>
