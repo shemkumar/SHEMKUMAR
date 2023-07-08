@@ -17,17 +17,9 @@ I'm currently pursuing my Bachelor's Degree in Information Technology.
 ![Css3](https://img.shields.io/badge/css3-css-white?style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## My Setup
-
-### Operating Systems
-
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 
 ## My Github Stats 
-![raxen](https://github-readme-stats.vercel.app/api/top-langs/?username=shemkumar&theme=gruvbox&show_icons=true)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=shemkumar&theme=gruvbox&show_icons=true)
 
 <br>
 
