@@ -17,3 +17,6 @@ I'm currently pursuing my Bachelor's Degree in Information Technology.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
+
+![sam] (https://github-readme-stats.vercel.app/api/top-langs/?username=shemkumar&theme=gruvbox&show_icons=true)
+
