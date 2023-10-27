@@ -18,5 +18,3 @@ I'm currently pursuing my Bachelor's Degree in Information Technology.
 
 <br>
 
-![sam] (https://github-readme-stats.vercel.app/api/top-langs/?username=shemkumar&theme=gruvbox&show_icons=true)
-
