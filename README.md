@@ -1,8 +1,6 @@
 ## About Me
 
-Hello,  I'm SHEMKUMAR P.
-
-I'm currently pursuing my Bachelor's Degree in Information Technology.
+Hello,  I'm SHEMKUMAR P
 
 ## Languages/Skills
 
