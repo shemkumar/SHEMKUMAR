@@ -15,4 +15,8 @@ Hello,  I'm SHEMKUMAR P
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=shemkumar&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shemkumar&theme=darkhub&no-frame=true)
+
+
 
