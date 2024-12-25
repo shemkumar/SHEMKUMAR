@@ -14,15 +14,3 @@ Hello,  I'm SHEMKUMAR P
 ![Css3](https://img.shields.io/badge/css3-css-white?style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-# 📊 GitHub Stats:
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shemkumar&theme=github_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shemkumar&theme=github_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shemkumar&theme=github_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shemkumar&theme=github_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shemkumar&theme=github_dark" />
-
-
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=shemkumar&theme=dark)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shemkumar&theme=darkhub&no-frame=true)
